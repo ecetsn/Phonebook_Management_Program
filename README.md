@@ -1,6 +1,6 @@
 # Phonebook_Management_Program
 
-## Main aim of program is to compare the time performance of AVL and BST trees.
+## Main aim of program is to compare the time performance of template-based AVL and BST trees.
 
 This program implements a phonebook management system using Binary Search Tree (BST) and AVL Tree data structures. It provides various functionalities for searching, adding, and deleting contacts, as well as printing and visualizing the phonebook. The program is template-based to allow flexibility in contact information storage.
 
