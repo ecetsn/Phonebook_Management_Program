@@ -36,4 +36,4 @@ Here's how the program works:
 **Repeat or Exit:** After executing a function, the program allows the user to perform another operation or exit the program.
 
 :warning:
-This project was developed as a programming assignment and serves as an educational resource for working with sparse matrices and linked lists.
+This project was developed as a programming assignment and serves as an educational resource for working.
